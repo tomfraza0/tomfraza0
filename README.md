@@ -45,15 +45,15 @@ const tomg = {
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=TomG07&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/> -->
 
 <!-- GitHub Stats Cards -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TomG07&custom_title=Contribuição%20nos%20últimos%2012%20meses&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area_color=21262d&title_color=58a6ff&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tomfraza0&custom_title=Contribuição%20nos%20últimos%2012%20meses&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area_color=21262d&title_color=58a6ff&area=true"/>
 
 <details>
 <summary>📊 Estatísticas Detalhadas</summary>
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomG07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=⚡%20Estatísticas%20GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomG07&theme=radical&layout=compact&custom_title=🚀%20Linguagens%20Favoritas&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomfraza0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=⚡%20Estatísticas%20GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomfraza0&theme=radical&layout=compact&custom_title=🚀%20Linguagens%20Favoritas&langs_count=8"/>
 </div>
 
 </details>
@@ -89,7 +89,7 @@ const tomg = {
 <div align="center">
 
 <a href="https://github.com/TomG07">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomG07&repo=portfolio&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomfraza0&repo=portfolio&theme=radical&hide_border=false" />
 </a>
 
 <!-- Adicione mais repos conforme necessário -->
@@ -110,14 +110,14 @@ const tomg = {
 </a>
 
 ### 📊 Profile Views
-<img src="https://komarev.com/ghpvc/?username=TomG07&style=for-the-badge&color=blueviolet&animated=true" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=tomfraza0&style=for-the-badge&color=blueviolet&animated=true" alt="Profile Views"/>
 
 <!-- GitHub Followers/Stars -->
 <a href="https://github.com/maykontardoche?tab=repositories">
-  <img alt="Total Stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TomG07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+  <img alt="Total Stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tomfraza0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
 </a>
-<a href="https://github.com/TomG07?tab=followers">
-  <img alt="Followers" title="Segue-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/TomG07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+<a href="https://github.com/tomfraza0?tab=followers">
+  <img alt="Followers" title="Segue-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/tomfraza0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
 </a>
 
 </div>
@@ -129,9 +129,9 @@ const tomg = {
 ## 🐍 Contribuição Snake Game
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomG07/TomG07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomG07/TomG07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TomG07/TomG07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomfraza0/tomfraza0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomfraza0/tomfraza0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tomfraza0/tomfraza0/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
