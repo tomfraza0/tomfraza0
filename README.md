@@ -15,7 +15,7 @@
 ```typescript
 const tomg = {
     name: "Tomás Frazão",
-    age: 18,
+    age: 19,
     location: "Leiria, Portugal 🇵🇹",
     education: "Computer Science & Engineering @ IST",
     passion: ["Technology", "Innovation", "Bot Development"],
