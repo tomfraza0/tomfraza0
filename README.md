@@ -25,6 +25,19 @@ const tomg = {
 ```
 
 ---
+<!--
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/tomfraza0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tomfraza0&repo=portfolio&theme=radical&hide_border=false" />
+</a>
+
+</div>
+
+---
+-->
 
 <div align="center">
 
